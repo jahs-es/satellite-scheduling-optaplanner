@@ -1,4 +1,10 @@
-= Maintenance Scheduling (Java, Quarkus, Maven)
+= Satellite Station task scheduling Scheduling (Java, Quarkus, Maven)
+
+A sample project that try to assign tasks to visibilities zones linked to satellites.
+
+Constraint Stream is used to create constraints.
+
+Tests included.
 
 == Run the application with live coding
 
